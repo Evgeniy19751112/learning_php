@@ -1,0 +1,25 @@
+div {
+    display: block;
+}
+.pozdravim_text:first-letter {
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: monotype corsiva;
+    letter-spacing: 2px;
+}
+.pozdravim_text {
+    background-color: #f3fcff;
+    border-color: #b6ecfd;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    color: #031b24;
+    //font-size: 20px;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 5px;
+    overflow: hidden;
+    padding: 5px 5px 0;
+    text-align: center;
+}
